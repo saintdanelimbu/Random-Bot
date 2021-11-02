@@ -1,0 +1,43 @@
+Kalawit, Zamboanga Del Norte 7124
+Katipunan, Zamboanga Del Norte 7109
+La Libertad, Zamboanga Del Norte 7119
+Labason, Zamboanga Del Norte 7117
+Liloy, Zamboanga Del Norte 7115
+Manukan, Zamboanga Del Norte 7110
+Mutia, Zamboanga Del Norte 7107
+Pinan, Zamboanga Del Norte 7105
+Polanco, Zamboanga Del Norte 7106
+Rizal, Zamboanga Del Norte 7104
+Roxas, Zamboanga Del Norte 7102
+Salug, Zamboanga Del Norte 7114
+Aurora, Zamboanga Del Sur 7020
+Bayog, Zamboanga Del Sur 7011
+Dimataling, Zamboanga Del Sur 7032
+Dinas, Zamboanga Del Sur 7030
+Dumalinao, Zamboanga Del Sur 7015
+Dumingag, Zamboanga Del Sur 7028
+Guipos, Zamboanga Del Sur 7042
+Josefina, Zamboanga Del Sur 7027
+Kumalarang, Zamboanga Del Sur 7005
+Labangan, Zamboanga Del Sur 7017
+Lakewood, Zamboanga Del Sur 7014
+Lapuyan, Zamboanga Del Sur 7037
+Mahayag, Zamboanga Del Sur 7023
+Margosatubig, Zamboanga Del Sur 7035
+Midsalip, Zamboanga Del Sur 7021
+Alicia, Zamboanga Sibugay 7040
+Buug, Zamboanga Sibugay 7009
+Diplahan, Zamboanga Sibugay 7039
+Imelda, Zamboanga Sibugay 7007
+Ipil, Zamboanga Sibugay 7001
+Kabalasan, Zamboanga Sibugay 7005
+Mabuhay, Zamboanga Sibugay 7010
+Malangas, Zamboanga Sibugay 7038
+Naga, Zamboanga Sibugay 7004
+Olutanga, Zamboanga Sibugay 7041
+Payao, Zamboanga Sibugay 7008
+Roseller Lim, Zamboanga Sibugay 7002
+Siay, Zamboanga Sibugay 7006
+Talusan, Zamboanga Sibugay 7012
+Titay, Zamboanga Sibugay 7003
+Tungawan, Zamboanga Sibugay 7018

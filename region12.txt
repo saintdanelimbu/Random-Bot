@@ -1,0 +1,43 @@
+Alamada, Cotabato 9413
+Aleosan, Cotabato 9415
+Antipas, Cotabato 9414
+Arakan, Cotabato 9417
+Banisilan, Cotabato 9416
+Carmen, Cotabato 9408
+Kabacan, Cotabato 9407
+Kidapawan City, Cotabato 9400
+Libungan, Cotabato 9411
+Magpet, Cotabato 9404
+Makilala, Cotabato 9401
+Matalam, Cotabato 9406
+Midsayap, Cotabato 9410
+M'Lang, Cotabato 9402
+Pigkawayan, Cotabato 9412
+Pikit, Cotabato 9409
+Tulunan, Cotabato 9403
+Alabel, Sarangani 9501
+Glan, Sarangani 9517
+Kiamba, Sarangani 9514
+Maasim, Sarangani 9502
+Maitum, Sarangani 9515
+Malapatan, Sarangani 9516
+Malungon, Sarangani 9503
+Banga, South Cotabato 9511
+General Santos City, South Cotabato 9500
+Koronadal City, South Cotabato 9506
+Norala, South Cotabato 9508
+Polomolok, South Cotabato 9504
+Surallah, South Cotabato 9512
+T'Boli, South Cotabato 9513
+Tampakan, South Cotabato 9507
+Tantangan, South Cotabato 9510
+Tupi, South Cotabato 9505
+Bagumbayan, Sultan Kudarat 9810
+Columbio, Sultan Kudarat 9801
+Isulan, Sultan Kudarat 9805
+Kalamansig, Sultan Kudarat 9808
+Lebak, Sultan Kudarat 9807
+Lutayan, Sultan Kudarat 9803
+Mariano Marcos, Sultan Kudarat 9802
+Palimbang, Sultan Kudarat 9809
+Takurong, Sultan Kudarat 9800

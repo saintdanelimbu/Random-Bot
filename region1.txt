@@ -1,0 +1,29 @@
+Bangui, Ilocos Norte 2920
+Batac, Ilocos Norte 2906
+Burgos, Ilocos Norte 2918
+Carasi, Ilocos Norte 2911
+Currimao, Ilocos Norte 2903
+Dingras, Ilocos Norte 2913
+Candon City, Ilocos Sur 2710
+Caoayan, Ilocos Sur 2702
+Cervantes, Ilocos Sur 2718
+Galimuyod, Ilocos Sur 2709
+Gregorio del Pilar, Ilocos Sur 2720
+Lidlidda, Ilocos Sur 2723
+Magsingal, Ilocos Sur 2730
+Nagbukel, Ilocos Sur 2725
+Balaoan, La Union 2517
+Bangar, La Union 2519
+Bauang, La Union 2501
+Burgos, La Union 2510
+Caba, La Union 2502
+Damortis, La Union 2507
+Luna, La Union 2518
+Bayambang, Pangasinan 2423
+Binalonan, Pangasinan 2436
+Binmaley, Pangasinan 2417
+Bolinao, Pangasinan 2406
+Bugallon, Pangasinan 2416
+Burgos, Pangasinan 2410
+Calasiao, Pangasinan 2418
+Dagupan City, Pangasinan 2400

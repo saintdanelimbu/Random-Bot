@@ -1,0 +1,64 @@
+Baler, Aurora 3200
+Casiguran, Aurora 3204
+Dilasag, Aurora 3205
+Dinalungan, Aurora 3206
+Dingalan, Aurora 3207
+Dipaculao, Aurora 3203
+Maria Aurora, Aurora 3202
+San Luis, Aurora 3201
+Abucay, Bataan 2114
+Bagac, Bataan 2107
+Balanga, Bataan 2100
+Dinalupihan, Bataan 2110
+Hermosa, Bataan 2111
+Lamao, Bataan 2104
+Limay, Bataan 2103
+Mariveles, Bataan 2105
+Guiguinto, Bulacan 3015
+Hagunoy, Bulacan 3002
+Malolos City, Bulacan 3000
+Marilao, Bulacan 3019
+Meycauayan City, Bulacan 3020
+Norsagaray, Bulacan 3013
+Obando, Bulacan 3021
+Pandi, Bulacan 3014
+Paombong, Bulacan 3001
+Plaridel, Bulacan 3004
+Pulilan, Bulacan 3005
+San Ildefonso, Bulacan 3010
+Cuyapo, Nueva Ecija 3117
+Fort Magsaysay, Nueva Ecija 3130
+Gabaldon, Nueva Ecija 3131
+Gapan, Nueva Ecija 3105
+General M. Natividad, Nueva Ecija 3125
+General Tinio, Nueva Ecija 3104
+Guimba, Nueva Ecija 3115
+Jaen, Nueva Ecija 3109
+Laur, Nueva Ecija 3129
+Licab, Nueva Ecija 3112
+Apalit, Pampanga 2016
+Arayat, Pampanga 2012
+Bacolor, Pampanga 2001
+Macabebe, Pampanga 2018
+Candaba, Pampanga 2013
+Floridablanca, Pampanga 2006
+Guagua, Pampanga 2003
+Lubao, Pampanga 2005
+Mabalacat, Pampanga 2010
+Anao, Tarlac 2310
+Bamban, Tarlac 2317
+Camiling, Tarlac 2306
+Capas, Tarlac 2315
+Concepcion, Tarlac 2316
+Gerona, Tarlac 2302
+La Paz, Tarlac 2314
+Mayantoc, Tarlac 2304
+Moncada, Tarlac 2308
+Paniqui, Tarlac 2307
+Botolan, Zambales 2202
+Cabangan, Zambales 2203
+Candelaria, Zambales 2212
+Castillejos, Zambales 2208
+Iba, Zambales 2201
+Masinloc, Zambales 2211
+Olongapo City, Zambales 2200

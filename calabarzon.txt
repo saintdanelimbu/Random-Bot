@@ -1,0 +1,62 @@
+Padre Garcia, Batangas 4224
+Rosario, Batangas 4225
+San Jose, Batangas 4227
+San Juan, Batangas 4226
+San Luis, Batangas 4210
+San Nicolas, Batangas 4207
+San Pascual, Batangas 4204
+Santa Teresita, Batangas 4206
+Santo Tomas, Batangas 4234
+Taal, Batangas 4208
+Talisay, Batangas 4220
+Tanauan City, Batangas 4232
+Taysan, Batangas 4228
+Tingloy, Batangas 4203
+General Mariano Alvarez, Cavite 4117
+General Trias, Cavite 4107
+Imus, Cavite 4103
+Indang, Cavite 4122
+Kawit, Cavite 4104
+Magallanes, Cavite 4113
+Maragondon, Cavite 4112
+Mabitac, Laguna 4020
+Magdalena, Laguna 4007
+Majayjay, Laguna 4005
+Nagcarlan, Laguna 4002
+Paete, Laguna 4016
+Pagsanjan, Laguna 4008
+Pakil, Laguna 4017
+Pangil, Laguna 4018
+Pila, Laguna 4010
+Rizal, Laguna 4003
+San Pablo City, Laguna 4000
+San Pedro, Laguna 4023
+Santa Cruz, Laguna 4009
+Santa Maria, Laguna 4022
+Santa Rosa City, Laguna 4026
+Lucena City, Quezon 4301
+Macalelon, Quezon 4309
+Mauban, Quezon 4330
+Mulanay, Quezon 4312
+Padre Burgos, Quezon 4303
+Pagbilao, Quezon 4302
+Panukulan, Quezon 4337
+Patnanongan, Quezon 4341
+Perez, Quezon 4334
+Pitogo, Quezon 4308
+Plaridel, Quezon 4306
+Polilio, Quezon 4339
+Angono, Rizal 1930
+Antipolo City, Rizal 1870
+Baras, Rizal 1970
+Binangonan, Rizal 1940
+Cainta, Rizal 1900
+Cardona, Rizal 1950
+Jala-Jala, Rizal 1990
+Montalban, Rizal 1860
+Morong, Rizal 1960
+Pililia, Rizal 1910
+San Mateo, Rizal 1850
+Tanay, Rizal 1980
+Taytay, Rizal 1920
+Teresa, Rizal 1880

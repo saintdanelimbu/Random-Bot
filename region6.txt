@@ -1,0 +1,72 @@
+Altavas, Aklan 5616
+Balite, Aklan 5614
+Banga, Aklan 5601
+Batan, Aklan 5615
+Buruanga, Aklan 5609
+Ibajay, Aklan 5613
+Kalibo, Aklan 5600
+Lezo, Aklan 5605
+Libacao, Aklan 5602
+Libertad, Antique 5710
+Pandan, Antique 5712
+Patnongan, Antique 5702
+San Jose, Antique 5700
+San Remegio, Antique 5714
+Sebaste, Antique 5709
+Sibalom, Antique 5713
+Tibiao, Antique 5707
+Cuartero, Capiz 5811
+Dao, Capiz 5810
+Dumalag, Capiz 5813
+Dumarao, Capiz 5812
+Ivisan, Capiz 5805
+Jamindan, Capiz 5808
+Ma-Ayon, Capiz 5809
+Mambusao, Capiz 5807
+Buenavista, Guimaras 5044
+Jordan, Guimaras 5045
+Nueva Valencia, Guimaras 5046
+San Lorenzo, Guimaras 5047
+Sibunag, Guimaras 5048
+Ajuy, Iloilo 5012
+Alimondian, Iloilo 5028
+Anilao, Iloilo 5009
+Badiangan, Iloilo 5033
+Balasan, Iloilo 5018
+Banate, Iloilo 5010
+Barotac Nuevo, Iloilo 5007
+Barotac Viejo, Iloilo 5011
+Batad, Iloilo 5016
+Bingawan, Iloilo 5041
+Cabatuan, Iloilo 5031
+Calinog, Iloilo 5040
+Carles, Iloilo 5019
+Concepcion, Iloilo 5013
+Dingle, Iloilo 5035
+Dueñas, Iloilo 5038
+Dumangas, Iloilo 5006
+Estancia, Iloilo 5017
+Guimbal, Iloilo 5022
+Igbaras, Iloilo 5029
+Iloilo City, Iloilo 5000
+Janiuay, Iloilo 5034
+Lambunao, Iloilo 5042
+Leganes, Iloilo 5003
+Lemery, Iloilo 5043
+Leon, Iloilo 5026
+Maasin, Iloilo 5030
+Miagao, Iloilo 5023
+Mina, Iloilo 5032
+Escalante City, Negros Occidental 6124
+Himamaylan City, Negros Occidental 6108
+Hinigaran City, Negros Occidental 6106
+Hinoba-an, Negros Occidental 6114
+Ilog, Negros Occidental 6109
+Isabela, Negros Occidental 6128
+Kabankalan City, Negros Occidental 6111
+Kauayan, Negros Occidental 6112
+La Carlota City, Negros Occidental 6130
+La Castillana, Negros Occidental 6131
+Manapla, Negros Occidental 6120
+Moises Padilla, Negros Occidental 6132
+Murcia, Negros Occidental 6129

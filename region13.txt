@@ -1,0 +1,61 @@
+Buenavista, Agusan Del Norte 8601
+Butuan City, Agusan Del Norte 8600
+Cabadbaran, Agusan Del Norte 8605
+Carmen, Agusan Del Norte 8603
+Jabonga, Agusan Del Norte 8607
+Kitcharao, Agusan Del Norte 8609
+La Nieves, Agusan Del Norte 8610
+Bayugan, Agusan Del Sur 8502
+Bunawan, Agusan Del Sur 8506
+Esperanza, Agusan Del Sur 8513
+La Paz, Agusan Del Sur 8508
+Loreto, Agusan Del Sur 8507
+Prosperidad, Agusan Del Sur 8500
+Rosario, Agusan Del Sur 8504
+Basilisa, Dinagat Islands 8413
+Cagdianao, Dinagat Islands 8411
+Dinagat, Dinagat Islands 8412
+Libjo, Dinagat Islands 8414
+Loreto, Dinagat Islands 8415
+San Jose, Dinagat Islands 8427
+Tubajon, Dinagat Islands 8426
+Alegria, Surigao del Norte 8425
+Bacuag, Surigao del Norte 8408
+Burgos, Surigao del Norte 8424
+Claver, Surigao del Norte 8410
+Dapa, Surigao del Norte 8417
+Del Carmen, Surigao del Norte 8418
+Gen. Luna, Surigao del Norte 8419
+Gigaquit, Surigao del Norte 8409
+Mainit, Surigao del Norte 8407
+Malimano, Surigao del Norte 8402
+Pilar, Surigao del Norte 8420
+Placer, Surigao del Norte 8405
+San Benito, Surigao del Norte 8423
+San Francisco, Surigao del Norte 8401
+San Isidro, Surigao del Norte 8421
+Santa Monica, Surigao del Norte 8422
+Sison, Surigao del Norte 8404
+Socorro, Surigao del Norte 8416
+Surigao City, Surigao del Norte 8400
+Tagana-an, Surigao del Norte 8403
+Tubod, Surigao del Norte 8406
+Barobo, Surigao del Sur 8309
+Bayabas, Surigao del Sur 8303
+Bislig, Surigao del Sur 8311
+Cagwait, Surigao del Sur 8304
+Cantillan, Surigao del Sur 8317
+Carmen, Surigao del Sur 8315
+Carrascal, Surigao del Sur 8318
+Cortez, Surigao del Sur 8313
+Hinatuan, Surigao del Sur 8310
+Lanuza, Surigao del Sur 8314
+Lianga, Surigao del Sur 8307
+Lingig, Surigao del Sur 8312
+Madrid, Surigao del Sur 8316
+Marihatag, Surigao del Sur 8306
+San Agustin, Surigao del Sur 8305
+San Miguel, Surigao del Sur 8301
+Tagbina, Surigao del Sur 8308
+Tago, Surigao del Sur 8302
+Tandag, Surigao del Sur 8300

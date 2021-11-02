@@ -1,0 +1,31 @@
+Bangued, Abra 2800
+Boliney, Abra 2815
+Bucay, Abra 2805
+Bucloc, Abra 2817
+Daguioman, Abra 2816
+Flora, Apayao 3810
+Kabugao, Apayao 3809
+Luna, Apayao 3813
+Pudtol, Apayao 3812
+Santa Marcela, Apayao 3811
+Bokod, Benguet 2605
+Bugias, Benguet 2607
+Itogon, Benguet 2604
+Kabayan, Benguet 2606
+Kapangan, Benguet 2613
+Kibungan, Benguet 2611
+Hingyon, Ifugao 3607
+Hungduan, Ifugao 3603
+Kiangan, Ifugao 3604
+Lagawe, Ifugao 3600
+Lamut, Ifugao 3605
+Lubuagan, Kalinga 3802
+Pasil, Kalinga 3803
+Pinukpuk, Kalinga 3806
+Tanudan, Kalinga 3805
+Tinglayan, Kalinga 3804
+Barlig, Mountain Province 2623
+Bauko, Mountain Province 2621
+Besao, Mountain Province 2618
+Bontoc, Mountain Province 2616
+Natonin, Mountain Province 2624

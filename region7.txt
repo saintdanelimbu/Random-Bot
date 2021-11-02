@@ -1,0 +1,41 @@
+Albuquerque, Bohol 6302
+Alicia, Bohol 6314
+Anda, Bohol 6311
+Antiquera, Bohol 6335
+Baclayon, Bohol 6301
+Balilihan, Bohol 6342
+Batuan, Bohol 6318
+Bien Unido, Bohol 6326
+Bilar, Bohol 6317
+Buenavista, Bohol 6333
+Calape, Bohol 6328
+Candijay, Bohol 6312
+Borbon, Cebu 6008
+Carcar City, Cebu 6019
+Carmen, Cebu 6005
+Catmon, Cebu 6006
+Cebu City, Cebu 6000
+Compostela, Cebu 6003
+Consolacion, Cebu 6001
+Cordova, Cebu 6017
+Daanbantayan, Cebu 6013
+Dalaguete, Cebu 6022
+Danao City, Cebu 6004
+Dumanjug, Cebu 6035
+Ginatilan, Cebu 6028
+Lapu-Lapu City, Cebu 6015
+Liloan, Cebu 6002
+Jimalalud, Negros Oriental 6212
+La Libertad, Negros Oriental 6213
+Mabinay, Negros Oriental 6207
+Manjuyod, Negros Oriental 6208
+Pamplona, Negros Oriental 6205
+San Jose, Negros Oriental 6202
+Santa Catalina, Negros Oriental 6220
+Siaton, Negros Oriental 6219
+Enrique Villanueva, Siquijor 6230
+Larena, Siquijor 6226
+Lazi, Siquijor 6228
+Maria, Siquijor 6229
+San Juan, Siquijor 6227
+Siquijor, Siquijor 6225

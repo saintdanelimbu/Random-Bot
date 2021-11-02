@@ -1,0 +1,73 @@
+Guinobatan, Albay 4503
+Jovellar, Albay 4515
+Legaspi City, Albay 4500
+Libon, Albay 4507
+Ligao City, Albay 4504
+Malilipot, Albay 4510
+Malinao, Albay 4512
+Manito, Albay 4514
+Basud, Camarines Norte 4608
+Capalonga, Camarines Norte 4607
+Daet, Camarines Norte 4600
+Imelda, Camarines Norte 4610
+Jose Panganiban, Camarines Norte 4606
+Labo, Camarines Norte 4604
+Mercedes, Camarines Norte 4601
+Paracale, Camarines Norte 4605
+San Vicente, Camarines Norte 4609
+Santa Elena, Camarines Norte 4611
+Talisay, Camarines Norte 4602
+Tula-na-Lupa, Camarines Norte 4612
+Vinzons, Camarines Norte 4603
+Baao, Camarines Sur 4432
+Balatan, Camarines Sur 4436
+Bato, Camarines Sur 4435
+Bombon, Camarines Sur 4404
+Buhi, Camarines Sur 4433
+Bula, Camarines Sur 4430
+Cabusao, Camarines Sur 4406
+Calabanga, Camarines Sur 4405
+Camaligan, Camarines Sur 4401
+Canaman, Camarines Sur 4402
+Caramoan, Camarines Sur 4429
+Del Gallego, Camarines Sur 4411
+Gainza, Camarines Sur 4412
+Garchitorena, Camarines Sur 4428
+Goa, Camarines Sur 4422
+Iriga City, Camarines Sur 4431
+Lagunoy, Camarines Sur 4425
+Bagamanoc, Catanduanes 4807
+Baras, Catanduanes 4803
+Bato, Catanduanes 4801
+Caramoran, Catanduanes 4808
+Gigmoto, Catanduanes 4804
+Pandan, Catanduanes 4809
+Panganiban, Catanduanes 4806
+San Andres, Catanduanes 4810
+San Miguel, Catanduanes 4802
+Viga, Catanduanes 4805
+Virac, Catanduanes 4800
+Aroroy, Masbate 5414
+Baleno, Masbate 5413
+Balud, Masbate 5412
+Batuan, Masbate 5415
+Buenavista, Masbate 5421
+Cataingan, Masbate 5405
+Cawayan, Masbate 5409
+Claveria, Masbate 5419
+Dimasalang, Masbate 5403
+Bacon, Sorsogon 4701
+Barcelona, Sorsogon 4712
+Bulan, Sorsogon 4706
+Bulusan, Sorsogon 4704
+Casiguran, Sorsogon 4702
+Castilla, Sorsogon 4713
+Donsol, Sorsogon 4715
+Gubat, Sorsogon 4710
+Irosin, Sorsogon 4707
+Juban, Sorsogon 4703
+Magallanes, Sorsogon 4705
+Matnog, Sorsogon 4708
+Pilar, Sorsogon 4714
+Prieto Diaz, Sorsogon 4711
+Santa Magdalena, Sorsogon 4709

@@ -1,0 +1,37 @@
+Compostela, Davao De Oro 8803
+Laak, Davao De Oro 8810
+Mabini, Davao De Oro 8807
+Maco, Davao De Oro 8806
+Maragusan, Davao De Oro 8808
+Mawab, Davao De Oro 8802
+Monkayo, Davao De Oro 8805
+Montevista, Davao De Oro 8801
+Nabunturan City, Davao De Oro 8800
+New Bataan, Davao De Oro 8804
+Pantukan, Davao De Oro 8809
+Asuncion, Davao Del Norte 8102
+Babak, Davao Del Norte 8118
+Carmen, Davao Del Norte 8101
+Kapalong, Davao Del Norte 8113
+Kaputian, Davao Del Norte 8120
+New Corella, Davao Del Norte 8104
+Panabo City, Davao Del Norte 8105
+Samal, Davao Del Norte 8119
+Santo Tomas, Davao Del Norte 8112
+Tagum City, Davao Del Norte 8100
+Bansalan, Davao Del Sur 8005
+Davao City, Davao Del Sur 8000
+Digos City, Davao Del Sur 8002
+Don Marcelino, Davao Del Sur 8013
+Hagunoy, Davao Del Sur 8006
+Jose Abad Santos, Davao Del Sur 8014
+Kiblawan, Davao Del Sur 8008
+Magsaysay, Davao Del Sur 8004
+Malalag, Davao Del Sur 8010
+Malita, Davao Del Sur 8012
+Matanao, Davao Del Sur 8003
+Padada, Davao Del Sur 8007
+Santa Cruz, Davao Del Sur 8001
+Santa Maria, Davao Del Sur 8011
+Sarangani, Davao Del Sur 8015
+Sulop, Davao Del Sur 8009

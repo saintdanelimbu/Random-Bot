@@ -1,0 +1,45 @@
+Baungon, Bukidnon 8707
+Cabanglasan, Bukidnon 8723
+Damulog, Bukidnon 8721
+Dangcagan, Bukidnon 8719
+Don Carlos, Bukidnon 8712
+Impasugong, Bukidnon 8702
+Kadingilan, Bukidnon 8713
+Kalilangan, Bukidnon 8718
+Kibawe, Bukidnon 8720
+Kitaotao, Bukidnon 8716
+Lantapan, Bukidnon 8722
+Libona, Bukidnon 8706
+Catarman, Camiguin 9104
+Guinsiliban, Camiguin 9102
+Mahinog, Camiguin 9101
+Mambajao, Camiguin 9100
+Sagay, Camiguin 9103
+Bacolod, Lanao Del Norte 9205	
+Baloi, Lanao Del Norte 9217
+Baroy, Lanao Del Norte 9210	
+Iligan City, Lanao Del Norte 9200
+Kapatagan, Lanao Del Norte 9214
+Aloran, Misamis Occidental 7206
+Baliangao, Misamis Occidental 7211
+Bonifacio, Misamis Occidental 7215
+Calamba, Misamis Occidental 7210
+Clarin, Misamis Occidental 7201
+Concepcion, Misamis Occidental 7213
+Jimenez, Misamis Occidental 7204
+Lopez Jaena, Misamis Occidental 7208
+Claveria, Misamis Oriental 9004
+El Salvador, Misamis Oriental 9017
+Gingoog City, Misamis Oriental 9014
+Gitagum, Misamis Oriental 9020
+Initao, Misamis Oriental 9022
+Jasaan, Misamis Oriental 9003
+Kinogitan, Misamis Oriental 9010
+Lagonglong, Misamis Oriental 9006
+Laguindingan, Misamis Oriental 9019
+Libertad, Misamis Oriental 9021
+Lugait, Misamis Oriental 9025
+Magsaysay, Misamis Oriental 9015
+Manticao, Misamis Oriental 9024
+Medina, Misamis Oriental 9013
+Naawan, Misamis Oriental 9023

@@ -1,0 +1,44 @@
+Basco, Batanes 3900
+Itbayat, Batanes 3905
+Ivana, Batanes 3902
+Mahatao, Batanes 3901
+Sabtang, Batanes 3904
+Uyugan, Batanes 3903
+Abulug, Cagayan 3517
+Alcala, Cagayan 3507
+Allacapan, Cagayan 3523
+Amulung, Cagayan 3505
+Aparri, Cagayan 3515
+Baggao, Cagayan 3506
+Ballesteros, Cagayan 3516
+Buguey, Cagayan 3511
+Calayan, Cagayan 3520
+Camalaniugan, Cagayan 3510
+Claveria, Cagayan 3519
+Enrile, Cagayan 3501
+Gattaran, Cagayan 3508
+Gonzaga, Cagayan 3513
+Iguig, Cagayan 3504
+Burgos, Isabela 3322
+Cabagan, Isabela 3328
+Cabatuan, Isabela 3315
+Cauayan, Isabela 3305
+Cordon, Isabela 3312
+Delfin Albano, Isabela 3326
+Dinapigui, Isabela 3336
+Divilacan, Isabela 3335
+Echague, Isabela 3309
+Gamu, Isabela 3301
+Ilagan, Isabela 3300
+Ambaguio, Nueva Vizcaya 3701
+Aritao, Nueva Vizcaya 3704
+Bagabag, Nueva Vizcaya 3711
+Bambang, Nueva Vizcaya 3702
+Bayombong, Nueva Vizcaya 3700
+Diadi, Nueva Vizcaya 3712
+Aglipay, Quirino 3403
+Cabarruguis, Quirino 3400
+Diffun, Quirino 3401
+Maddela, Quirino 3404
+Nagtipunan, Quirino 3405
+Saguday, Quirino 3402
