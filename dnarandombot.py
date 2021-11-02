@@ -652,4 +652,4 @@ async def help(ctx):
   await author.send(embed=embed)
   await ctx.send("Look at your DM's!")
 
-client.run("OTA0ODIzNTQxMzk5MTU4Nzk0.YYBIlw.xZ64Eu9IVMdsRsDk6z6LZ2nH5yM")
+client.run("TOKEN")
