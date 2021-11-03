@@ -1,0 +1,52 @@
+Boac, Marinduque 4900
+Buenavista, Marinduque 4904
+Gasan, Marinduque 4905
+Mogpog, Marinduque 4901
+Santa Cruz, Marinduque 4902
+Torrijos, Marinduque 4903
+Abra de Ilog, Occidental Mindoro 5108
+Calintaan, Occidental Mindoro 5102
+Looc, Occidental Mindoro 5111
+Lubang, Occidental Mindoro 5109
+Magsaysay, Occidental Mindoro 5101
+Mamburao, Occidental Mindoro 5106
+Paluan, Occidental Mindoro 5107
+Rizal, Occidental Mindoro 5103
+Sablayan, Occidental Mindoro 5104
+San Jose, Occidental Mindoro 5100
+Santa Cruz, Occidental Mindoro 5105
+Tilik, Occidental Mindoro 5110
+Baco, Oriental Mindoro 5201
+Bansud, Oriental Mindoro 5210
+Bongabon, Oriental Mindoro 5211
+Bulalacao, Oriental Mindoro 5214
+Calapan, Oriental Mindoro 5200
+Gloria, Oriental Mindoro 5209
+Mansalay, Oriental Mindoro 5213
+Naujan, Oriental Mindoro 5204
+Pinamalayan, Oriental Mindoro 5208
+Pola, Oriental Mindoro 5206
+Puerto Galera, Oriental Mindoro 5203
+Roxas, Oriental Mindoro 5212
+San Teodoro, Oriental Mindoro 5202
+Socorro, Oriental Mindoro 5207
+Victoria, Oriental Mindoro 5205
+Busuanga, Palawan 5317
+Cagayancillo, Palawan 5321
+Coron, Palawan 5316
+Culion, Palawan 5315
+Cuyo, Palawan 5318
+Dumaran, Palawan 5310
+El Nido, Palawan 5313
+Calatrava, Romblon 5503
+Concepcion, Romblon 5516
+Corcuera, Romblon 5514
+Ferrol, Romblon 5506
+Imelda, Romblon 5502
+Looc, Romblon 5507
+Magdiwang, Romblon 5511
+Odiongan, Romblon 5505
+Romblon, Romblon 5500
+San Agustin, Romblon 5501
+San Andres, Romblon 5504
+San Fernando, Romblon 5513
