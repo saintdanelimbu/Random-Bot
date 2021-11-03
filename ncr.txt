@@ -1,0 +1,77 @@
+Amparo, Caloocan City 1425
+Baesa, Caloocan City 1401
+Bagong Silang, Caloocan City 1428
+Bagumbong, Caloocan City 1421
+Bankers village, Caloocan City 1426
+Almanza, Las Pinas 1750
+Angela Village, Las Pinas 1749 
+Soldiers Hills Subd., Las Pinas 1752
+Talon Moonwalk, Las Pinas 1747
+Legaspi village, Makati City 1229
+Magallanes village, Makati City 1232
+Malapad na Bato, Makati City 1216
+Olympia, Makati City 1207
+Palanan, Makati City 1235
+Paseo de Roxas, Makati City 1226
+Pasong Tamo, Makati City 1231
+Pembo, Makati City 1218
+Pinagkaisahan, Makati City 1213
+Pio del Pilar, Makati City 1230
+Acacia, Malabon City 1474
+Araneta, Malabon City 1476
+Baritan, Malabon City 1470
+Bayan-bayanan, Malabon City 1470
+Catmon, Malabon City 1470
+Concepcion, Malabon City 1470
+San Jose, Mandaluyong City 1550
+Shaw Boulevard, Mandaluyong City 1552
+Vergara, Mandaluyong City 1551
+Wack Wack, Mandaluyong City 1555
+Binondo, Manila 1006
+Intramuros, Manila 1002
+Malate, Manila 1104
+Paco, Manila 1007
+Parang, Marikina 1809
+San Roque, Marikina 1801
+Santa Elena, Marikina 1800
+Santo Nino, Marikina 1800
+Tañong, Marikina 1803
+Tumana, Marikina 1800
+Alabang, Muntinlupa 1780
+Bayanan, Muntinlupa 1772
+Buli, Muntinlupa 1771
+Cupang, Muntinlupa 1771
+Bagumbayan North, Navotas 1409
+Bagumbayan South, Navotas 1409
+Bangculasi, Navotas 1409
+Daanghari, Navotas 1409
+Fish Market, Navotas 1411
+Better Living Subd., Paranaque City 1711
+Moonwalk Subdivision, Paranaque City 1709
+San Isidro, Pasay City 1306
+San Jose, Pasay City 1305
+San Rafael, Pasay City 1302
+San Roque, Pasay City 1303
+Santa Clara, Pasay City 1304
+Villamor Airbase, Pasay City 1309
+Maybunga, Pasig City 1607
+Oranbo, Pasig City 1600
+Ortigas, Pasig City 1605
+Palatiw, Pasig City 1600
+Tagumpay, Quezon City 1109
+Talampas, Quezon City 1110
+Talayan, Quezon City 1104
+Talipapa, Quezon City 1116
+Tandang Sora, Quezon City 1116
+Tatalon, Quezon City 1113
+Palingon, Taguig City 1630
+Pinagsama, Taguig City 1630
+San Miguel, Taguig City 1630
+Santa Ana, Taguig City 1630
+South Daan Hari, Taguig City 1630
+Karuhatan, Valuenzuela City 1441
+Lawang Bato, Valuenzuela City 1447
+Lingunan, Valuenzuela City 1446
+Mabolo, Valuenzuela City 1444
+Malanday, Valuenzuela City 1444
+Malinta, Valuenzuela City 1440
